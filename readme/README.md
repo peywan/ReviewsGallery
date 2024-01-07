@@ -1,0 +1,1 @@
+Reviews gallery with grid and BEM CSS. this project was done mainly to have a refresher of grid and css with flexbox in the cards (profiles and image section with name and p tag below). the purpose was getting better in CSS and assigning my first frontend mentor challenge. 
